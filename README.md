@@ -1,16 +1,17 @@
 # flutter_meals_app
 
-A new Flutter application.
+![Screenshot_1637103096](https://user-images.githubusercontent.com/68360550/142079257-08674e1f-8d14-4a2a-812f-207b8e70cbbe.png)
+Main Page 
+![Screenshot_1637103121](https://user-images.githubusercontent.com/68360550/142079261-7d8e31c5-61f7-46cf-93e2-3684bc104800.png)
 
-## Getting Started
+App Drawer
+![Screenshot_1637103090](https://user-images.githubusercontent.com/68360550/142079264-bbc2700f-0769-4be1-afcd-58a95966f610.png)
 
-This project is a starting point for a Flutter application.
+Meal recipes List
+![Screenshot_1637103144](https://user-images.githubusercontent.com/68360550/142079401-b00d1632-9f71-4c97-b2b7-1c8ca55f8c7c.png)
+![Screenshot_1637103149](https://user-images.githubusercontent.com/68360550/142079409-a20b305e-1eae-43f4-ab21-7217162ff4b0.png)
 
-A few resources to get you started if this is your first Flutter project:
+Meal details
+![Screenshot_1637103166](https://user-images.githubusercontent.com/68360550/142079499-8629a52a-22d7-4ac4-8485-6f908d332217.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1637103156](https://user-images.githubusercontent.com/68360550/142079488-db622ce9-5d00-43fc-87cc-b8b53c7a6d54.png)
